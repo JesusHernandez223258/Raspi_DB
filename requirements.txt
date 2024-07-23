@@ -6,3 +6,6 @@ alembic
 pyjwt # jwt 
 apscheduler # cron scheduler
 passlib # bcrypt
+pika
+python-dotenv
+mqtt
