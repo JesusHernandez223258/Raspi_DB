@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+fastapi-socketio
+sqlalchemy
+alembic
+pyjwt # jwt 
+apscheduler # cron scheduler
+passlib # bcrypt
+pika
+mqtt
+paho-mqtt 
+pyserial
+python-dotenv
